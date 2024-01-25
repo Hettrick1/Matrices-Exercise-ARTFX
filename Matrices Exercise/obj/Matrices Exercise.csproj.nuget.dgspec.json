@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\Documents\\Matrices Exercise\\Matrices Exercise\\Matrices Exercise.csproj": {}
+    "E:\\02.Prog\\Git\\Nouveau dossier\\Matrices-Exercise-ARTFX\\Matrices Exercise\\Matrices Exercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\Documents\\Matrices Exercise\\Matrices Exercise\\Matrices Exercise.csproj": {
+    "E:\\02.Prog\\Git\\Nouveau dossier\\Matrices-Exercise-ARTFX\\Matrices Exercise\\Matrices Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Documents\\Matrices Exercise\\Matrices Exercise\\Matrices Exercise.csproj",
+        "projectUniqueName": "E:\\02.Prog\\Git\\Nouveau dossier\\Matrices-Exercise-ARTFX\\Matrices Exercise\\Matrices Exercise.csproj",
         "projectName": "Matrices Exercise",
-        "projectPath": "C:\\Users\\Student\\Documents\\Matrices Exercise\\Matrices Exercise\\Matrices Exercise.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Documents\\Matrices Exercise\\Matrices Exercise\\obj\\",
+        "projectPath": "E:\\02.Prog\\Git\\Nouveau dossier\\Matrices-Exercise-ARTFX\\Matrices Exercise\\Matrices Exercise.csproj",
+        "packagesPath": "C:\\Users\\evann\\.nuget\\packages\\",
+        "outputPath": "E:\\02.Prog\\Git\\Nouveau dossier\\Matrices-Exercise-ARTFX\\Matrices Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Visual studio\\SDK\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\evann\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

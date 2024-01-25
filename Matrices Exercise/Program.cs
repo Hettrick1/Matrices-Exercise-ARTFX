@@ -102,12 +102,15 @@ double[,] MatriceTimeVector(double[,] matrice, double[] vector)
 
 double[,] MatriceTimeMatrice(double[,] matrice, double[,] matrice2)
 {
-    double[,] matriceTemp = new double[3, 3];
-    for (int i = 0; i < 3; i++)
+    double[,] matriceTemp = new double[3, 3]; 
+    for (int i = 0; i < 3; i++) // chaque ligne
     {
-        for (int j = 0; j < 3; j++)
+        for (int j = 0; j < 3; j++) // chaque colone
         {
-            matriceTemp[j, i] = matrice[j, i] * matrice2[i, j];
+            for (int k = 0; k < 3; k++)  // addition de la multiplication entre chaque élément de la colone avec chaque élément de la ligne
+            {
+                matriceTemp[i, j] += matrice[k, j] * matrice2[i, k];
+            }
         }
         Console.Write('\n');
     }

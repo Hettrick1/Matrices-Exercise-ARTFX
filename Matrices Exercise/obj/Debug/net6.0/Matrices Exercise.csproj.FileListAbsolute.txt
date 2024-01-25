@@ -12,3 +12,17 @@ C:\Users\Student\Documents\Matrices Exercise\Matrices Exercise\obj\Debug\net6.0\
 C:\Users\Student\Documents\Matrices Exercise\Matrices Exercise\obj\Debug\net6.0\Matrices Exercise.pdb
 C:\Users\Student\Documents\Matrices Exercise\Matrices Exercise\obj\Debug\net6.0\Matrices Exercise.genruntimeconfig.cache
 C:\Users\Student\Documents\Matrices Exercise\Matrices Exercise\obj\Debug\net6.0\ref\Matrices Exercise.dll
+E:\02.Prog\Git\Nouveau dossier\Matrices-Exercise-ARTFX\Matrices Exercise\bin\Debug\net6.0\Matrices Exercise.exe
+E:\02.Prog\Git\Nouveau dossier\Matrices-Exercise-ARTFX\Matrices Exercise\bin\Debug\net6.0\Matrices Exercise.deps.json
+E:\02.Prog\Git\Nouveau dossier\Matrices-Exercise-ARTFX\Matrices Exercise\bin\Debug\net6.0\Matrices Exercise.runtimeconfig.json
+E:\02.Prog\Git\Nouveau dossier\Matrices-Exercise-ARTFX\Matrices Exercise\bin\Debug\net6.0\Matrices Exercise.dll
+E:\02.Prog\Git\Nouveau dossier\Matrices-Exercise-ARTFX\Matrices Exercise\bin\Debug\net6.0\Matrices Exercise.pdb
+E:\02.Prog\Git\Nouveau dossier\Matrices-Exercise-ARTFX\Matrices Exercise\obj\Debug\net6.0\Matrices Exercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\02.Prog\Git\Nouveau dossier\Matrices-Exercise-ARTFX\Matrices Exercise\obj\Debug\net6.0\Matrices Exercise.AssemblyInfoInputs.cache
+E:\02.Prog\Git\Nouveau dossier\Matrices-Exercise-ARTFX\Matrices Exercise\obj\Debug\net6.0\Matrices Exercise.AssemblyInfo.cs
+E:\02.Prog\Git\Nouveau dossier\Matrices-Exercise-ARTFX\Matrices Exercise\obj\Debug\net6.0\Matrices Exercise.csproj.CoreCompileInputs.cache
+E:\02.Prog\Git\Nouveau dossier\Matrices-Exercise-ARTFX\Matrices Exercise\obj\Debug\net6.0\Matrices Exercise.dll
+E:\02.Prog\Git\Nouveau dossier\Matrices-Exercise-ARTFX\Matrices Exercise\obj\Debug\net6.0\refint\Matrices Exercise.dll
+E:\02.Prog\Git\Nouveau dossier\Matrices-Exercise-ARTFX\Matrices Exercise\obj\Debug\net6.0\Matrices Exercise.pdb
+E:\02.Prog\Git\Nouveau dossier\Matrices-Exercise-ARTFX\Matrices Exercise\obj\Debug\net6.0\Matrices Exercise.genruntimeconfig.cache
+E:\02.Prog\Git\Nouveau dossier\Matrices-Exercise-ARTFX\Matrices Exercise\obj\Debug\net6.0\ref\Matrices Exercise.dll
